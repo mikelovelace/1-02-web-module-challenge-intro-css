@@ -21,7 +21,7 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Fork the repository, then clone from your fork.
+- [x] Fork the repository, then clone from your fork.
 - [ ] Go into Canvas and connect your repository by copy-pasting its Github URL into the submission slot.
 - [ ] DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today.
 - [ ] cd into your repository on the command line and use code . to open VS Code.
