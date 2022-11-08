@@ -21,7 +21,7 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Fork the repository, then clone from your fork.
+- [x] Fork the repository, then clone from your fork.
 - [ ] Go into Canvas and connect your repository by copy-pasting its Github URL into the submission slot.
 - [ ] DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today.
 - [ ] cd into your repository on the command line and use code . to open VS Code.
@@ -32,8 +32,8 @@ Follow these steps to set up and work on your project:
 
 Once your repository is set up, practice what you learned today to style the site according to the given design. Your complete project should look similar to the desktop image. You should take the following actions, at a minimum:
 
-- [ ] Link your CSS stylesheet in the `index.html` and implement a CSS reset 
-- [ ] Markup html semantically, such that it can be styled according to the given desktop image
+- [x] Link your CSS stylesheet in the `index.html` and implement a CSS reset 
+- [x] Markup html semantically, such that it can be styled according to the given desktop image
 - [ ] Color the background of items in the navigation bar and footer with the following colors:
   - [ ] Plan your Visit: `#FF764E`
   - [ ] Learn About the Park: `#5ED3EB`

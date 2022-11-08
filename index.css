@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto Mono";
+  font-size: 1.8rem;
+  background: #FF764E;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 5rem 0;
+  text-align: center;
+  background: white;
+}
+
+
+/* TOP LINKS START */
+header nav a {
+  display: inline-block;
+  padding: 1.3rem 4rem;
+  margin: 0 7rem;
+  width: 20rem;
+  text-align: center;
+  border-radius: 1.3rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+header nav a:nth-child(1) {
+  background: #FF764E;
+}
+
+header nav a:nth-child(2) {
+  background: #5ED3EB;
+}
+
+header nav a:nth-child(3) {
+  background: #FFCD69;
+}
+/* TOP LINKS END */
+
+
+/* HEADER TITLE START */
+.header-title-container {
+  margin-top: 6rem;
+}
+
+.header-title-container .header-title {
+  font-family: "Chelsea Market";
+  padding: 3rem;
+  font-size: 6rem;
+  font-weight: 100;
+}
+
+.header-title-container .header-right p:nth-of-type(2) {
+  display: inline-block;
+  width: 50%;
+  margin: 3rem 0;
+}
+
+.header-title-container .header-left {
+  display: inline-block;
+}
+
+.header-title-container .header-right {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.header-title-container .header-left .header-img {
+  width: 25rem;
+  border-radius: 50%;
+} 
+/* HEADER TITLE END */
+
+
+/* MAIN DESCRIPTION START */
+main {
+  text-align: center;
+}
+
+main .park-description {
+  display: inline-block;
+  background: #DDB9A3;
+  width: 80%;
+  margin: 5rem 0 0;
+  color: #fff;
+}
+
+main .park-description p, main .park-description p p {
+  padding: 1.8rem;
+}
+/* MAIN DESCRIPTION END */
+
+
+/* PARK INFO START */
+.park-info {
+  margin: 0 auto;
+  display: block;
+  width: 30%;
+}
+
+.park-info img {
+  width: 20rem;
+}
+
+.park-info p {
+  display: inline-block;
+  width: 55%;
+  font-size: 1.4rem;
+}
+
+.info1-description p {
+  margin: -3rem 0 5rem;
+}
+
+.info2-description p {
+  margin: 0 0 5rem;
+}
+/* PARK INFO END */
+
+
+/* FOOTER START */
+footer .footer-image {
+  height: 25rem;
+  background-size: bottom left;
+  background-repeat: no-repeat;
+  background-image: url("./assets/footer_img.jpg");
+  margin-bottom: 5rem;
+}
+
+footer a {
+  display: inline-block;
+  padding: 1.3rem 4rem;
+  margin: 0 7rem;
+  width: 20rem;
+  text-align: center;
+  border-radius: 1.3rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:nth-child(1) {
+  background: #FF764E;
+}
+
+footer a:nth-child(2) {
+  background: #5ED3EB;
+}
+
+footer a:nth-child(3) {
+  background: #FFCD69;
+}
+/* FOOTER END */
